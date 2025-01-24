@@ -14,7 +14,9 @@ Guangyin Jin received B.S. degrees in Engineering (Mechanical Design, Manufactur
 Education Backgroud
 ======
 2014/09 -- 2018/06: Department of Mechanical and Electrical Engineering, College of Aeronautics and Astronautics, Xiamen University
+
 2018/09 -- 2023/06: Key Laboratory of Information Systems, School of Systems Engineering, National University of Defense Technology
+
 2020/10 -- 2022/08: Data Science and Intelligence Laboratory, Department of Electronic Engineering, Tsinghua University
 
 Research Interests
@@ -26,10 +28,6 @@ Research Interests
 5. Advanced Spatio-Temporal Graph Neural Networks
 6. LLM-based Social Dynamics Simulation
 7. Socio-technical Dynamics and Information Diffusion in Social Networks
-
-Research Interests
-======
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
 Collaborators
 ======
