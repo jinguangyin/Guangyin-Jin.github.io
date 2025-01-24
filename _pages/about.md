@@ -11,6 +11,12 @@ Biography
 ======
 Guangyin Jin received B.S. degrees in Engineering (Mechanical Design, Manufacturing and Automation) from Xiamen University, Xiamen, China, in 2018 and the Ph.D. degree in Engineering (Management Science and Engineering) from National University of Defense Technology, Changsha, China, in 2023. Now he is an assistant professor in National Innovative Institute of Defense Technology, Academy of Military Sciences, Beijing, China. He has published more than 30 papers in IEEE Trans. on Knowledge and Data Engineering, IEEE Trans. on Intelligent Transportation Systems, ACM Trans. on Knowledge Discovery from Data, ACM Trans. on Intelligent Systems and Technology, Information Sciences, Transportation Research Part C, AAAI, CIKM, SIGSPATIAL and other journals or conferences. He has authored 1 academic book, obtained 5 National Invention Patents, and hosted/participated in more than 5 projects. His research interests include urban computing, spatio-temporal data mining, intelligent transportation and computational social science. He is now the reviewer of the IEEE Trans. on Knowledge and Data Engineering, IEEE Trans. on Moblie Computing, IEEE Trans. on Knowledge and Intelligent Transportation Systems, Neural Networks, Information Fusion, Information Science, Applied Soft Computing, AAAI, ECML-PKDD, WWW and more than 30 other journals or conferences.
 
+Education Backgroud
+======
+2014/09 -- 2018/06: Department of Mechanical and Electrical Engineering, College of Aeronautics and Astronautics, Xiamen University
+2018/09 -- 2023/06: Key Laboratory of Information Systems, School of Systems Engineering, National University of Defense Technology
+2020/10 -- 2022/08: Data Science and Intelligence Laboratory, Department of Electronic Engineering, Tsinghua University
+
 Research Interests
 ======
 1. Urban Spatial Mobility Big Data Mining
@@ -21,26 +27,11 @@ Research Interests
 6. LLM-based Social Dynamics Simulation
 7. Socio-technical Dynamics and Information Diffusion in Social Networks
 
-Site-wide configuration
-------
+Research Interests
+======
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
+Collaborators
+======
 For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
