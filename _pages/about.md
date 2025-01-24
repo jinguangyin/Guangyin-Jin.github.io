@@ -13,9 +13,19 @@ Guangyin Jin received B.S. degrees in Engineering (Mechanical Design, Manufactur
 
 Education Backgroud
 ======
-2014/09 -- 2018/06: Department of Mechanical and Electrical Engineering, College of Aeronautics and Astronautics, Xiamen University   
-2018/09 -- 2023/06: Key Laboratory of Information Systems, School of Systems Engineering, National University of Defense Technology   
-2020/10 -- 2022/08: Data Science and Intelligence Laboratory, Department of Electronic Engineering, Tsinghua University
+Bachelor (2014/09 -- 2018/06)
+------
+Affiliations：Department of Mechanical and Electrical Engineering, College of Aeronautics and Astronautics, Xiamen University   
+Major/Direction: Mechanical Design, Manufacturing and Automation   
+Research Thesis: Arc Welding Anomaly Detection Based on Deep Learning Method
+
+PhD (2018/09 -- 2023/06)
+------
+Affiliations：Key Laboratory of Information Systems, School of Systems Engineering, National University of Defense Technology   
+
+Visting PhD (2020/10 -- 2022/08)
+------
+Affiliations：Data Science and Intelligence Laboratory, Department of Electronic Engineering, Tsinghua University
 
 Research Interests
 ======
