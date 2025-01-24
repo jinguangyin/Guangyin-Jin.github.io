@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Dr. Guangyin Jin"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,11 +9,9 @@ redirect_from:
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
-A data-driven personal website
+Biography
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Yanjie Song received double B.S. degrees in Management from Tianjin University, Tianjin, China, in 2017 and the Ph.D. degree in Engineering from National University of Defense Technology, Changsha, China, in 2022. He has published more than 40 papers in IEEE Trans. on Aerospace and Electronic Systems, Swarm and Evolutionary Computation, Information Sciences, Advanced Engineering Informatics, Computers & Industrial Engineering and other journals. He has authored 1 academic book, obtained 7 National Invention Patents, and hosted/participated in more than 15 projects. His research interests include computational intelligence, evolutionary algorithm, combinatorial optimization, and deep reinforcement learning. He is now the reviewer of the IEEE Trans. on Systems, Man and Cybernetics: Systems, Swarm and Evolutionary Computation, Neural Networks, Knowledge-Based Systems, Information Science, Applied Soft Computing and more than 30 other journals.
 
 Getting started
 ======
