@@ -9,16 +9,17 @@ redirect_from:
 
 Biography
 ======
-Guangyin Jin received B.S. degrees in Engineering (Mechanical Design, Manufacturing and Automation) from Xiamen University, Xiamen, China, in 2018 and the Ph.D. degree in Engineering (Management Science and Engineering) from National University of Defense Technology, Changsha, China, in 2023. He has published more than 30 papers in IEEE Trans. on Knowledge and Data Engineering, IEEE Trans. on Intelligent Transportation Systems, ACM Trans. on Knowledge Discovery from Data, ACM Trans. on Intelligent Systems and Technology, Information Sciences, Transportation Research Part C, AAAI, CIKM, SIGSPATIAL and other journals or conferences. He has authored 1 academic book, obtained 5 National Invention Patents, and hosted/participated in more than 5 projects. His research interests include urban computing, spatio-temporal data mining, intelligent transportation and computational social science. He is now the reviewer of the IEEE Trans. on Knowledge and Data Engineering, IEEE Trans. on Moblie Computing, IEEE Trans. on Knowledge and Intelligent Transportation Systems, Neural Networks, Information Fusion, Information Science, Applied Soft Computing, AAAI, ECML-PKDD, WWW and more than 30 other journals or conferences.
+Guangyin Jin received B.S. degrees in Engineering (Mechanical Design, Manufacturing and Automation) from Xiamen University, Xiamen, China, in 2018 and the Ph.D. degree in Engineering (Management Science and Engineering) from National University of Defense Technology, Changsha, China, in 2023. Now he is an assistant professor in National Innovative Institute of Defense Technology, Academy of Military Sciences, Beijing, China. He has published more than 30 papers in IEEE Trans. on Knowledge and Data Engineering, IEEE Trans. on Intelligent Transportation Systems, ACM Trans. on Knowledge Discovery from Data, ACM Trans. on Intelligent Systems and Technology, Information Sciences, Transportation Research Part C, AAAI, CIKM, SIGSPATIAL and other journals or conferences. He has authored 1 academic book, obtained 5 National Invention Patents, and hosted/participated in more than 5 projects. His research interests include urban computing, spatio-temporal data mining, intelligent transportation and computational social science. He is now the reviewer of the IEEE Trans. on Knowledge and Data Engineering, IEEE Trans. on Moblie Computing, IEEE Trans. on Knowledge and Intelligent Transportation Systems, Neural Networks, Information Fusion, Information Science, Applied Soft Computing, AAAI, ECML-PKDD, WWW and more than 30 other journals or conferences.
 
-Getting started
+Research Interests
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. Urban Spatial Mobility Big Data Mining
+2. Urban Transportation Network Dynamics Forecasting 
+3. Human Group Behavior in Social Complex Systems
+4. Interpretable Neural Networks Embedded with Physical Dynamics
+5. Advanced Spatio-Temporal Graph Neural Networks
+6. LLM-based Social Dynamics Simulation
+7. Socio-technical Dynamics and Information Diffusion in Social Networks
 
 Site-wide configuration
 ------
