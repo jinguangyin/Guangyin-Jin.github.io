@@ -10,7 +10,8 @@ List of Dr. Guangyin Jin's honorary appointments, participation in organizing co
 Honorary Appointment
 ======
 1. Visiting Professor, School of Continuing Education, Nanjing University of Science and Technology   
-2. Senior Engineer, National Academy of Artificial Intelligence (NAAI)    
+2. Senior Engineer, National Academy of Artificial Intelligence (NAAI)
+3. Special Expert, CNKI Nebula Expert Database
 
 Editor
 ======
