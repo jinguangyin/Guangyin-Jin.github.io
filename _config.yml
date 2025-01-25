@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "jinguangyin.jpg"
   name             : "Guangyin Jin"
   pronouns         : # example: "she/her"  
   bio              : "Explorer of artificial intelligence and social complex systems"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Beijing, China"
+  employer         : "AMS"
   uri              : # URL
   email            : "jinguangyin96@foxmail.com" 
 
