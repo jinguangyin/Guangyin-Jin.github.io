@@ -30,11 +30,36 @@ Peer Reviewer for International Journals
 2. IEEE Transactions on Neural Networks and Learning Systems
 3. IEEE Transactions on Intelligent Transportation Systems
 4. IEEE Transactions on Moblie Computing
-5. Information Sciences
-6. Information Fusion
-7. Data Mining and Knowledge Discovery
-8. Applied Soft Computing
-9. 
+5. IEEE Transactions on Cognitive Communications and Networking
+6. IEEE Transactions on Artificial Intelligence
+7. IEEE Transactions on Industrial Informatics
+8. IEEE Transactions on Big Data
+9. IEEE Internet of Things Journal
+10. ACM Transactions on Knowledge Discovery from Data
+11. ACM Transactions on Intelligent Systems and Technology
+12. Information Sciences
+13. Information Fusion
+14. Data Mining and Knowledge Discovery
+15. Applied Soft Computing
+16. Neurocomputing
+17. Artificial Intelligence Review
+18. Pattern Recognition
+19. Neural Networks
+20. Transportation Research Part C: Emerging Technologies
+21. IET Intelligent Transport Systems
+22. Transportation Planning and Technology
+23. International Journal of Digital Earth
+24. Geo-Spatial Information Science
+25. Cybernetics & Systems
+26. Supercomputing
+27. Cluster Computing
+28. Applied Geography
+29. Automation in Construction
+30. Computers & Electrical Engineering
+31. International Journal of Information Management Data Insights
+32. Transportation Research Interdisciplinary Perspectives
+33. Transportation Research
+
 
 {% if site.talkmap_link == true %}
 
