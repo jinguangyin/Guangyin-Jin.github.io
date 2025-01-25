@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+List of Dr. Guangyin Jin's honorary appointments, participation in organizing conferences, serving as an academic editor and reviewer, and other academic activities.
+
 Honorary Appointment
 ======
 1. Visiting Professor, School of Continuing Education, Nanjing University of Science and Technology   
