@@ -24,6 +24,18 @@ Conference Organisation
 1. Workshop Chair, [IEEE the 1st International conference on Computer, Big Data and Artificial Intelligence (ICCBDAI 2020)](http://www.iccbdai.org/download/file/ICBDAI2020%20program2020-1018-1.pdf)
 2. Workshop Chair, [IEEE the 3th International conference on Computer, Big Data and Artificial Intelligence (ICCBDAI 2022)](http://www.iccbdai.org/workshop2020/index.html)
 
+Peer Reviewer for International Journals
+======
+1. IEEE Transactions on Knowledge and Data Engineering
+2. IEEE Transactions on Neural Networks and Learning Systems
+3. IEEE Transactions on Intelligent Transportation Systems
+4. IEEE Transactions on Moblie Computing
+5. Information Sciences
+6. Information Fusion
+7. Data Mining and Knowledge Discovery
+8. Applied Soft Computing
+9. 
+
 {% if site.talkmap_link == true %}
 
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
