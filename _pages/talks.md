@@ -12,10 +12,10 @@ Honorary Appointment
 
 Editor
 ======
-1. Academic Editor, Plos One (SCI Index)   
+1. Academic Editor, [Plos One (SCI Index)](https://journals.plos.org/plosone/static/editorial-board?)   
 2. Editorial Board Member, [Artificial Intelligence and Autonomous Systems](https://www.elspub.com/journals/artificial-intelligence-and-autonomous-systems/editorial/)   
-3. Editorial Board Member, Information System and Smart City   
-4. Editorial Board Member, Computer Engineering (Chinese Journal)    
+3. Editorial Board Member, [Information System and Smart City](https://ojs.acad-pub.com/index.php/ISSC/about/editorialTeam)   
+4. Editorial Board Member, [Computer Engineering (Chinese Journal)](https://www.ecice06.com/CN/news/news6495.shtml)    
 
 Conference Organisation
 ======
