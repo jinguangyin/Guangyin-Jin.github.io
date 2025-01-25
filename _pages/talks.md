@@ -21,7 +21,8 @@ Editor
 
 Conference Organisation
 ======
-1. 
+1. Workshop Chair, [IEEE the 1st International conference on Computer, Big Data and Artificial Intelligence (ICCBDAI 2020)](http://www.iccbdai.org/download/file/ICBDAI2020%20program2020-1018-1.pdf)
+2. Workshop Chair, [IEEE the 3th International conference on Computer, Big Data and Artificial Intelligence (ICCBDAI 2022)](http://www.iccbdai.org/workshop2020/index.html)
 
 {% if site.talkmap_link == true %}
 
