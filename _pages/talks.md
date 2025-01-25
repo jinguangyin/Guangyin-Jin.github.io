@@ -60,6 +60,14 @@ Peer Reviewer for International Journals
 32. Transportation Research Interdisciplinary Perspectives
 33. Transportation Research
 
+Program Committee Member for International Conferences
+======
+1. AAAI Conference on Artificial Intelligence (AAAI), 2023
+2. AAAI Conference on Artificial Intelligence (AAAI), 2024
+3. AAAI Conference on Artificial Intelligence (AAAI), 2025
+4. Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML-PKDD), 2023
+5. Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML-PKDD), 2025
+6. International World Wide Web Conference (WWWW), 2023
 
 {% if site.talkmap_link == true %}
 
