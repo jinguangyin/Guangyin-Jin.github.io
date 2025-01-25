@@ -46,10 +46,20 @@ Prof. Witold Pedrycz, University of Alberta, Canda
 Prof. Yuxuan Liang, Hong Kong University of Science and Technology (Guangzhou), China    
 Prof. Christian S. Jensen, Aalborg University, Denmark   
 Prof. Roger Zimmermann, National University of Singapore, Singapore   
-Prof. Gao Cong, Nanyang Technological University , Singapore   
-Dr. Zhexu Xi, University of Oxford, UK   
+Prof. Gao Cong, Nanyang Technological University , Singapore      
 Prof. Wei Ma, The Hong Kong Polytechnic University, Hong Kong    
 Prof. Jieping Ye, Alibaba Group, USA    
-Prof. Fei Wang, Chinese Academy of Sciences, China    
+Prof. Fei Wang, Chinese Academy of Sciences, China   
+Prof. Zezhi Shao, Chinese Academy of Sciences, China
+Prof. Jinlei Zhang, Beijing Jiaotong University, China   
+Prof. Huaiyu Wan, Beijing Jiaotong University, China   
+Prof. Lingbo Liu, Peng Cheng Laboratory, China   
+Prof. Theodore Modis, Growth Dynamics, Switzerland   
+Prof. Qingsong Wen, Squirrel AI, USA   
+Dr. Zhexu Xi, University of Oxford, UK   
+Dr. Yuchen Fang, University of Electronic Science and Technology, China
+
+
+
 
 
