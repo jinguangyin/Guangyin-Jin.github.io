@@ -54,7 +54,8 @@ Prof. Zezhi Shao, Chinese Academy of Sciences, China
 Prof. Jinlei Zhang, Beijing Jiaotong University, China   
 Prof. Huaiyu Wan, Beijing Jiaotong University, China   
 Prof. Lingbo Liu, Peng Cheng Laboratory, China   
-Prof. Theodore Modis, Growth Dynamics, Switzerland   
+Prof. Theodore Modis, Growth Dynamics, Switzerland  
+Prof. Panchamy Krishnakumari, Delft University of Technology, Netherlands
 Prof. Qingsong Wen, Squirrel AI, USA   
 Dr. Zhexu Xi, University of Oxford, UK   
 Dr. Yuchen Fang, University of Electronic Science and Technology, China
