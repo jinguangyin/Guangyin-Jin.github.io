@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jgy.pdf"
+  avatar           : "jgy.png"
   name             : "Guangyin Jin"
   pronouns         : # example: "she/her"  
   bio              : "Explorer of artificial intelligence and social complex systems"
