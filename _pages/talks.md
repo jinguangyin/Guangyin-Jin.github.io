@@ -12,6 +12,7 @@ Honorary Appointment
 1. Visiting Professor, School of Continuing Education, Nanjing University of Science and Technology   
 2. Senior Engineer, National Academy of Artificial Intelligence (NAAI)
 3. Special Expert, CNKI Nebula Expert Database
+4. Distinguished Expert, Shenzhen Boku Talent Technology Group
 
 Editor
 ======
