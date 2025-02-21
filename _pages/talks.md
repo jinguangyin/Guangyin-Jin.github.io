@@ -16,7 +16,7 @@ Honorary Appointment
 
 Editor
 ======
-1. Associate Editor, [Plos One (SCI Index)](https://journals.plos.org/plosone/static/editorial-board?)   
+1. Associate Editor, [Plos One (SCI)](https://journals.plos.org/plosone/static/editorial-board?)   
 2. Associate Editor, [Artificial Intelligence and Autonomous Systems](https://www.elspub.com/journals/artificial-intelligence-and-autonomous-systems/editorial/)
 3. Associate Editor, [AI+](https://www.elspublishing.com/journals/aiplus/editorial/)
 4. Editorial Board Member, [Journal on Big Data](https://www.techscience.com/jbd/editors)
