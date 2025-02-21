@@ -17,10 +17,11 @@ Honorary Appointment
 Editor
 ======
 1. Associate Editor, [Plos One (SCI Index)](https://journals.plos.org/plosone/static/editorial-board?)   
-2. Associate Editor, [Artificial Intelligence and Autonomous Systems](https://www.elspub.com/journals/artificial-intelligence-and-autonomous-systems/editorial/)   
-3. Editorial Board Member, [Journal on Big Data](https://www.techscience.com/jbd/editors)
-4. Editorial Board Member, [Information System and Smart City](https://ojs.acad-pub.com/index.php/ISSC/about/editorialTeam)   
-5. Editorial Board Member, [Computer Engineering (Chinese Journal)](https://www.ecice06.com/CN/news/news6495.shtml)    
+2. Associate Editor, [Artificial Intelligence and Autonomous Systems](https://www.elspub.com/journals/artificial-intelligence-and-autonomous-systems/editorial/)
+3. Associate Editor, [AI+](https://www.elspublishing.com/journals/aiplus/editorial/)
+4. Editorial Board Member, [Journal on Big Data](https://www.techscience.com/jbd/editors)
+5. Editorial Board Member, [Information System and Smart City](https://ojs.acad-pub.com/index.php/ISSC/about/editorialTeam)   
+6. Editorial Board Member, [Computer Engineering (Chinese Journal)](https://www.ecice06.com/CN/news/news6495.shtml)    
 
 Conference Organisation
 ======
