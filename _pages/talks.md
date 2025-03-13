@@ -28,6 +28,7 @@ Conference Organisation
 ======
 1. Workshop Chair, [IEEE the 1st International conference on Computer, Big Data and Artificial Intelligence (ICCBDAI 2020)](http://www.iccbdai.org/download/file/ICBDAI2020%20program2020-1018-1.pdf)
 2. Workshop Chair, [IEEE the 3th International conference on Computer, Big Data and Artificial Intelligence (ICCBDAI 2022)](http://www.iccbdai.org/workshop2020/index.html)
+3. Workshop Chair, [IEEE 2nd International Conference on Big Data Science and Engineering (ICBDSE 2025)](http://www.icbdse.org/)
 
 Peer Reviewer for International Journals
 ======
