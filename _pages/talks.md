@@ -12,8 +12,9 @@ Honorary Appointment
 1. Visiting Professor, School of Continuing Education, Nanjing University of Science and Technology
 2. Visiting Scholar, Department of Planning, Design, and Technology of Architecture, Sapienza University of Rome
 3. Senior Engineer, National Academy of Artificial Intelligence (NAAI)
-4. Special Expert, CNKI Nebula Expert Database
-5. Distinguished Expert, Shenzhen Boku Talent Technology Group
+4. Senior Senior Research Fellow, National Academy of Artificial Intelligence (NAAI)
+5. Special Expert, CNKI Nebula Expert Database
+6. Distinguished Expert, Shenzhen Boku Talent Technology Group
 
 Editor
 ======
