@@ -37,37 +37,38 @@ Peer Reviewer for International Journals
 2. IEEE Transactions on Neural Networks and Learning Systems
 3. IEEE Transactions on Intelligent Transportation Systems
 4. IEEE Transactions on Moblie Computing
-5. IEEE Transactions on Cognitive Communications and Networking
-6. IEEE Transactions on Artificial Intelligence
-7. IEEE Transactions on Industrial Informatics
-8. IEEE Transactions on Big Data
-9. IEEE Internet of Things Journal
-10. ACM Transactions on Knowledge Discovery from Data
-11. ACM Transactions on Intelligent Systems and Technology
-12. ACM Transactions on Spatial Algorithms and Systems
-13. Information Sciences
-14. Information Fusion
-15. Data Mining and Knowledge Discovery
-16. Knowledge and Information Systems
-17. Applied Soft Computing
-18. Neurocomputing
-19. Artificial Intelligence Review
-20. Pattern Recognition
-21. Neural Networks
-22. Transportation Research Part C: Emerging Technologies
-23. IET Intelligent Transport Systems
-24. Transportation Planning and Technology
-25. International Journal of Digital Earth
-26. Geo-Spatial Information Science
-27. Cybernetics & Systems
-28. Supercomputing
-29. Cluster Computing
-30. Applied Geography
-31. Automation in Construction
-32. Computers & Electrical Engineering
-33. International Journal of Information Management Data Insights
-34. Transportation Research Interdisciplinary Perspectives
-35. Transportation Research
+5. IEEE Transactions on Image Processing
+6. IEEE Transactions on Cognitive Communications and Networking
+7. IEEE Transactions on Artificial Intelligence
+8. IEEE Transactions on Industrial Informatics
+9. IEEE Transactions on Big Data
+10. IEEE Internet of Things Journal
+11. ACM Transactions on Knowledge Discovery from Data
+12. ACM Transactions on Intelligent Systems and Technology
+13. ACM Transactions on Spatial Algorithms and Systems
+14. Information Sciences
+15. Information Fusion
+16. Data Mining and Knowledge Discovery
+17. Knowledge and Information Systems
+18. Applied Soft Computing
+19. Neurocomputing
+20. Artificial Intelligence Review
+21. Pattern Recognition
+22. Neural Networks
+23. Transportation Research Part C: Emerging Technologies
+24. IET Intelligent Transport Systems
+25. Transportation Planning and Technology
+26. International Journal of Digital Earth
+27. Geo-Spatial Information Science
+28. Cybernetics & Systems
+29. Supercomputing
+30. Cluster Computing
+31. Applied Geography
+32. Automation in Construction
+33. Computers & Electrical Engineering
+34. International Journal of Information Management Data Insights
+35. Transportation Research Interdisciplinary Perspectives
+36. Transportation Research
 
 Program Committee Member for International Conferences
 ======
