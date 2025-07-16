@@ -22,9 +22,12 @@ Editor
 2. Associate Editor, [Artificial Intelligence and Autonomous Systems](https://www.elspub.com/journals/artificial-intelligence-and-autonomous-systems/editorial/)
 3. Associate Editor, [AI+](https://www.elspublishing.com/journals/aiplus/editorial/)
 4. Editorial Board Member, [Smart Cities (SCI)](https://www.mdpi.com/journal/smartcities)
-5. Editorial Board Member, [Journal on Big Data](https://www.techscience.com/jbd/editors)
-6. Editorial Board Member, [Information System and Smart City](https://ojs.acad-pub.com/index.php/ISSC/about/editorialTeam)   
-7. Editorial Board Member, [Computer Engineering (Chinese Journal)](https://www.ecice06.com/CN/news/news6495.shtml)    
+5. Editorial Board Member, [Franklin Open (EI)](https://www.sciencedirect.com/journal/franklin-open)
+6. Editorial Board Member, [Discover Artificial Intelligence (EI)](https://link.springer.com/journal/44163)
+7. Editorial Board Member, [Big Data and Information Analytics](http://www.aimspress.com/journal/bdia)
+8. Editorial Board Member, [Journal on Big Data](https://www.techscience.com/jbd/editors)
+9. Editorial Board Member, [Information System and Smart City](https://ojs.acad-pub.com/index.php/ISSC/about/editorialTeam)   
+10. Editorial Board Member, [Computer Engineering (Chinese Journal)](https://www.ecice06.com/CN/news/news6495.shtml)    
 
 Conference Organisation
 ======
