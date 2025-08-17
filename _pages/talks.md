@@ -27,7 +27,8 @@ Editor
 7. Editorial Board Member, [Big Data and Information Analytics](http://www.aimspress.com/journal/bdia)
 8. Editorial Board Member, [Journal on Big Data](https://www.techscience.com/jbd/editors)
 9. Editorial Board Member, [Information System and Smart City](https://ojs.acad-pub.com/index.php/ISSC/about/editorialTeam)   
-10. Editorial Board Member, [Computer Engineering (Chinese Journal)](https://www.ecice06.com/CN/news/news6495.shtml)    
+10. Editorial Board Member, [Computer Engineering (Chinese Journal)](https://www.ecice06.com/CN/news/news6495.shtml)
+11. Special Issue Editor, Optimization and Modeling in Spatio-Temporal Data Mining Using Graph Neural Networks, [Mathematics](https://www.mdpi.com/journal/mathematics/special_issues/1JC136GSOF)  
 
 Conference Organisation
 ======
@@ -76,12 +77,14 @@ Peer Reviewer for International Journals
 
 Program Committee Member for International Conferences
 ======
-1. AAAI Conference on Artificial Intelligence (AAAI), 2023
-2. AAAI Conference on Artificial Intelligence (AAAI), 2024
-3. AAAI Conference on Artificial Intelligence (AAAI), 2025
-4. Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML-PKDD), 2023
-5. Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML-PKDD), 2025
-6. International World Wide Web Conference (WWWW), 2023
+1. AAAI AI Alignment Track Senior Program Committee, 2026
+2. AAAI Conference on Artificial Intelligence (AAAI), 2023
+3. AAAI Conference on Artificial Intelligence (AAAI), 2024
+4. AAAI Conference on Artificial Intelligence (AAAI), 2025
+5. AAAI Conference on Artificial Intelligence (AAAI), 2026
+6. Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML-PKDD), 2023
+7. Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML-PKDD), 2025
+8. International World Wide Web Conference (WWWW), 2023
 
 {% if site.talkmap_link == true %}
 
