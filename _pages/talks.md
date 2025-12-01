@@ -9,12 +9,14 @@ List of Dr. Guangyin Jin's honorary appointments, participation in organizing co
 
 Honorary Appointment
 ======
-1. Visiting Professor, School of Continuing Education, Nanjing University of Science and Technology
-2. Visiting Scholar, Department of Planning, Design, and Technology of Architecture, Sapienza University of Rome
-3. Senior Engineer, National Academy of Artificial Intelligence (NAAI)
-4. Senior Senior Research Fellow, National Academy of Artificial Intelligence (NAAI)
-5. Special Expert, CNKI Nebula Expert Database
-6. Distinguished Expert, Shenzhen Boku Talent Technology Group
+1. Doctoral supervisor, specializing in Artificial Intelligence and Cybersecurity, Shinawatra University
+2. Visiting Professor, School of Economics and Management, Chang'an University
+3. Visiting Professor, School of Continuing Education, Nanjing University of Science and Technology
+4. Visiting Scholar, Department of Planning, Design, and Technology of Architecture, Sapienza University of Rome
+5. Senior Engineer, National Academy of Artificial Intelligence (NAAI)
+6. Senior Senior Research Fellow, National Academy of Artificial Intelligence (NAAI)
+7. Special Expert, CNKI Nebula Expert Database
+8. Distinguished Expert, Shenzhen Boku Talent Technology Group
 
 Editor
 ======
@@ -22,13 +24,14 @@ Editor
 2. Associate Editor, [Artificial Intelligence and Autonomous Systems](https://www.elspub.com/journals/artificial-intelligence-and-autonomous-systems/editorial/)
 3. Associate Editor, [AI+](https://www.elspublishing.com/journals/aiplus/editorial/)
 4. Editorial Board Member, [Smart Cities (SCI)](https://www.mdpi.com/journal/smartcities)
-5. Editorial Board Member, [Franklin Open (EI)](https://www.sciencedirect.com/journal/franklin-open)
-6. Editorial Board Member, [Discover Artificial Intelligence (EI)](https://link.springer.com/journal/44163)
-7. Editorial Board Member, [Big Data and Information Analytics](http://www.aimspress.com/journal/bdia)
-8. Editorial Board Member, [Journal on Big Data](https://www.techscience.com/jbd/editors)
-9. Editorial Board Member, [Information System and Smart City](https://ojs.acad-pub.com/index.php/ISSC/about/editorialTeam)   
-10. Editorial Board Member, [Computer Engineering (Chinese Journal)](https://www.ecice06.com/CN/news/news6495.shtml)
-11. Special Issue Editor, Optimization and Modeling in Spatio-Temporal Data Mining Using Graph Neural Networks, [Mathematics](https://www.mdpi.com/journal/mathematics/special_issues/1JC136GSOF)  
+5. Editorial Board Member, [Scientific Reports (SCI)](https://www.nature.com/srep/)
+6. Editorial Board Member, [Franklin Open (EI)](https://www.sciencedirect.com/journal/franklin-open)
+7. Editorial Board Member, [Discover Artificial Intelligence (EI)](https://link.springer.com/journal/44163)
+8. Editorial Board Member, [Big Data and Information Analytics](http://www.aimspress.com/journal/bdia)
+9. Editorial Board Member, [Journal on Big Data](https://www.techscience.com/jbd/editors)
+10. Editorial Board Member, [Information System and Smart City](https://ojs.acad-pub.com/index.php/ISSC/about/editorialTeam)   
+11. Editorial Board Member, [Computer Engineering (Chinese Journal)](https://www.ecice06.com/CN/news/news6495.shtml)
+12. Special Issue Editor, Optimization and Modeling in Spatio-Temporal Data Mining Using Graph Neural Networks, [Mathematics](https://www.mdpi.com/journal/mathematics/special_issues/1JC136GSOF)  
 
 Conference Organisation
 ======
