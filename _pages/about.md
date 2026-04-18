@@ -9,7 +9,7 @@ redirect_from:
 
 Biography
 ======
-Guangyin Jin received B.S. degrees in Engineering from Xiamen University, Xiamen, China, in 2018 and the Ph.D. degree in Engineering from National University of Defense Technology, Changsha, China, in 2023. Now he is an associate professor of National Innovative Institute of Defense Technology, Beijing, China, a visiting professor of Nanjing University of Science and Technology, Nanjing, China and a doctoral supervisor of Shinawatra University, Bangkok, Thailand. He has published more than 40 papers in IEEE TKDE, IEEE TITS, ACM TKDD, ACM TIST, TRC, AAAI, CIKM, ICCV, NIPS, SIGSPATIAL and other top journals or conferences. His research interests include urban computing, spatio-temporal data mining, intelligent transportation and computational social science. He is now the reviewer of the IEEE TKDE, IEEE TMC, IEEE TITS, AAAI, ECML-PKDD, WWW and more than 50 other journals or conferences. He also serves as editorial board members of many SCI/EI-indexed international journal such as Plos One, Scientific Reports, Franklin Open, Sensors, etc.
+Guangyin Jin received B.S. degrees in Engineering from Xiamen University, Xiamen, China, in 2018 and the Ph.D. degree in Engineering from Tsinghua University, Beijing, China, in 2023. Now he is a visiting professor of Chang'an University and a doctoral supervisor of Shinawatra University, Bangkok, Thailand. He has published more than 50 papers in IEEE TKDE, IEEE TITS, ACM TKDD, ACM TIST, TRC, AAAI, CIKM, ICCV, NIPS, WWW, SIGSPATIAL and other top journals or conferences. His research interests include urban computing, spatio-temporal data mining, intelligent transportation and computational social science. He is now the reviewer of the IEEE TKDE, IEEE TMC, IEEE TITS, AAAI, ECML-PKDD, WWW and more than 50 other journals or conferences. He also serves as editorial board members of many SCI/EI/ESCI-indexed international journal such as Humanities and Social Sciences Communications, Neural processing letters, Plos One, Scientific Reports, Franklin Open, Sensors, Smart Cities, etc.
 
 Education Backgroud
 ======
@@ -18,15 +18,10 @@ Affiliations：Department of Mechanical and Electrical Engineering, College of A
 Major/Direction: Mechanical Design, Manufacturing and Automation   
 Research Thesis: Arc Welding Anomaly Detection Based on Deep Learning Method    
 
-__PhD__ (2018/09 -- 2023/06)   
-Affiliations: Key Laboratory of Information Systems, School of Systems Engineering, National University of Defense Technology   
-Major/Direction: Management Science and Engineering  
-Research Thesis: Spatio-Temporal Data Modeling and Prediction Based on Deep Learning
-
-__Visting PhD__ (2020/10 -- 2022/08)    
+__PhD__ (2018/09 -- 2023/06)    
 Affiliations：Data Science and Intelligence Laboratory, Department of Electronic Engineering, Tsinghua University     
 Major/Direction: Data Science   
-Research Thesis: Urban Traffic Dynamic Prediction Based on Spatio-Temporal Graph Neural Network   
+Research Thesis: Spatio-Temporal Data Modeling and Prediction Based on Deep Learning   
 
 Research Interests
 ======
