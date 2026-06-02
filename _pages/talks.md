@@ -9,24 +9,25 @@ List of Dr. Guangyin Jin's honorary appointments, participation in organizing co
 
 Honorary Appointment
 ======
-1. Doctoral supervisor, specializing in Artificial Intelligence and Cybersecurity, Shinawatra University
-2. Visiting Professor, School of Economics and Management, Chang'an University
-3. Visiting Professor, School of Continuing Education, Nanjing University of Science and Technology
-4. Visiting Scholar, Department of Planning, Design, and Technology of Architecture, Sapienza University of Rome
-5. Senior Engineer, National Academy of Artificial Intelligence (NAAI)
-6. Senior Senior Research Fellow, National Academy of Artificial Intelligence (NAAI)
-7. Special Expert, CNKI Nebula Expert Database
-8. Distinguished Expert, Shenzhen Boku Talent Technology Group
+1. IEEE Senior Member
+2. Doctoral supervisor, specializing in Artificial Intelligence and Cybersecurity, Shinawatra University
+3. Visiting Professor, School of Economics and Management, Chang'an University
+4. Visiting Professor, School of Continuing Education, Nanjing University of Science and Technology
+5. Visiting Scholar, Department of Planning, Design, and Technology of Architecture, Sapienza University of Rome
+6. Senior Engineer, National Academy of Artificial Intelligence (NAAI)
+7. Senior Senior Research Fellow, National Academy of Artificial Intelligence (NAAI)
+8. Special Expert, CNKI Nebula Expert Database
+9. Distinguished Expert, Shenzhen Boku Talent Technology Group
 
 Editor
 ======
 1. Associate Editor, [Plos One (SCI)](https://journals.plos.org/plosone/static/editorial-board?)   
 2. Associate Editor, [Artificial Intelligence and Autonomous Systems](https://www.elspub.com/journals/artificial-intelligence-and-autonomous-systems/editorial/)
 3. Associate Editor, [AI+](https://www.elspublishing.com/journals/aiplus/editorial/)
-4. Editorial Board Member, [Smart Cities (SCI)](https://www.mdpi.com/journal/smartcities)
+4. Editorial Board Member, [Smart Cities (ESCI)](https://www.mdpi.com/journal/smartcities)
 5. Editorial Board Member, [Scientific Reports (SCI)](https://www.nature.com/srep/)
 6. Editorial Board Member, [Franklin Open (EI)](https://www.sciencedirect.com/journal/franklin-open)
-7. Editorial Board Member, [Discover Artificial Intelligence (EI)](https://link.springer.com/journal/44163)
+7. Editorial Board Member, [Discover Computing (SCI)](https://link.springer.com/journal/10791/editorial-board)
 8. Editorial Board Member, [Big Data and Information Analytics](http://www.aimspress.com/journal/bdia)
 9. Editorial Board Member, [Journal on Big Data](https://www.techscience.com/jbd/editors)
 10. Editorial Board Member, [Information System and Smart City](https://ojs.acad-pub.com/index.php/ISSC/about/editorialTeam)   
@@ -87,7 +88,9 @@ Program Committee Member for International Conferences
 5. AAAI Conference on Artificial Intelligence (AAAI), 2026
 6. Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML-PKDD), 2023
 7. Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML-PKDD), 2025
-8. International World Wide Web Conference (WWWW), 2023
+8. Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML-PKDD), 2026
+9. ACM Conference on Knowledge and Information Management (CIKM), 2026
+10. International World Wide Web Conference (WWWW), 2023
 
 {% if site.talkmap_link == true %}
 
