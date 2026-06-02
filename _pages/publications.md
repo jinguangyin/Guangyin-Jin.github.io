@@ -13,36 +13,40 @@ If you need the PDF of any of the papers, please feel free to contact me.
 
 Journal Articles
 ======
-1. Wu, X., Guo, J., Shan, Y., & __Jin, G.__. (2026). GeoFormer: Geography-Aware Adaptive Transformer with Multi-Scale Temporal Fusion for Global Reservoir Water Level Forecasting. Mathematics, 14(4), 676.
-2. Shao, Z., Wang, F., Sun, T., Yu, C., Fang, Y., __Jin, G.__., ... & Xu, Y. (2025). Hutformer: Hierarchical u-net transformer for long-term traffic forecasting. Communications in Transportation Research, 5, 100218.
-3. Wu, Z., __Jin, G.__., Gu, X., & Wang, C. (2025). KANJDP: Interpretable Temporal Point Process Modeling with Kolmogorov–Arnold Representation. Mathematics, 13(17), 275
-4. Hao, X., Zhao, H., Diao, Y., Yin, R., __Jin, G.__., Zhang, J., ... & Zhou, W. (2025). Dada++: Dual alignment domain adaptation for unsupervised video-text retrieval. ACM Transactions on Multimedia Computing, Communications and Applications.
-5.  __Jin, G.__., Li, X., Guan, S., Song, Y., Hao, X., & Zhang, J. (2025). Exploring to predict the tipping points in traffic flow: A lightweight spatio-temporal information-enhanced neural point process approach. Physica A: Statistical Mechanics and its Applications, 131122.
-6. __Jin, G.__., Ni, X., Wei, K., Zhao, J., Zhang, H., & Jia, L. (2025). Will the technological singularity come soon? Modeling the dynamics of artificial intelligence development via multi-logistic growth process. Physica A: Statistical Mechanics and its Applications, 130450.
-7. Wang, L., Zhang, J., __Jin, G.__., & Dong, X. (2025). STID-Mixer: A Lightweight Spatio-Temporal Modeling Framework for AIS-Based Vessel Trajectory Prediction. Eng, 6(8), 184.
-8. Wen, H., Lin, Y., Wu, L., Mao, X., Cai, T., Hou, Y., __Jin, G.__,... & Wan, H. (2024). A survey on service route and time prediction in instant delivery: Taxonomy, progress, and prospects. IEEE Transactions on Knowledge and Data Engineering.     
-9. Shao, Z., Wang, F., Xu, Y., Wei, W., Yu, C., Zhang, Z., __Jin, G.__, ... & Cheng, X. (2024). Exploring progress in multivariate time series forecasting: Comprehensive benchmarking and heterogeneity analysis. IEEE Transactions on Knowledge and Data Engineering.     
-10. Gao, M., Du, Z., Qin, H., Wang, W., __Jin, G.__, & Xie, G. (2024). Dynamic multi-scale spatial-temporal graph convolutional network for traffic flow prediction. Knowledge-Based Systems, 305, 112586.    
-11. __Jin, G.__, Yan, H., Li, F., Huang, J., & Li, Y. (2024). Spatio-temporal dual graph neural networks for travel time estimation. ACM Transactions on Spatial Algorithms and Systems, 10(3), 1-22.
-12. __Jin, G.__, ZHAO, X. J., & GONG, Y. X. (2024). Moving trajectory destination prediction based on long short-term memory network. Computer Engineering & Science, 46(03), 525.     
-13. Yang, H., Wang, M., Wang, Q., Yu, Z., __Jin, G.__, Zhou, C., & Zhou, Y. (2024). Non-informative noise-enhanced stochastic neural networks for improving adversarial robustness. Information Fusion, 108, 102397.    
-14. __Jin, G.__, Liang, Y., Fang, Y., Shao, Z., Huang, J., Zhang, J., & Zheng, Y. (2023). Spatio-temporal graph neural networks for predictive learning in urban computing: A survey. IEEE Transactions on Knowledge and Data Engineering.     
-15. __Jin, G.__, Yan, H., Li, F., Li, Y., & Huang, J. (2023). Dual graph convolution architecture search for travel time estimation. ACM Transactions on Intelligent Systems and Technology, 14(4), 1-23.    
-16. __Jin, G.__, Sha, H., Xi, Z., & Huang, J. (2023). Urban hotspot forecasting via automated spatio-temporal information fusion. Applied Soft Computing, 136, 110087.     
-17. Zhang, J., Li, H., Zhang, S., Yang, L., __Jin, G.__, & Qi, J. (2023). A spatiotemporal graph generative adversarial networks for short-term passenger flow prediction in urban rail transit systems. International Journal of General Systems, 52(6), 694-721.
-18. Li, F., Feng, J., Yan, H., __Jin, G.__, Yang, F., Sun, F., ... & Li, Y. (2023). Dynamic graph convolutional recurrent network for traffic prediction: Benchmark and solution. ACM Transactions on Knowledge Discovery from Data, 17(1), 1-21.
-19. Zhang, J., Chen, Y., Panchamy, K., __Jin, G.__, Wang, C., Yang, L. (2023). Attention-based Multi-step Short-term Passenger Flow Spatial-temporal Integrated Prediction Model in URT Systems. Journal of Geo-information Science, 25(4): 698-713
-20. __Jin, G.__, Li, F., Zhang, J., Wang, M., & Huang, J. (2022). Automated dilated spatio-temporal synchronous graph modeling for traffic prediction. IEEE Transactions on Intelligent Transportation Systems, 24(8), 8820-8830.    
-21. __Jin, G.__., Wang, M., Zhang, J., Sha, H., & Huang, J. (2022). STGNN-TTE: Travel time estimation via spatial–temporal graph neural network. Future Generation Computer Systems, 126, 70-81.     
-22. __Jin, G.__, Liu, C., Xi, Z., Sha, H., Liu, Y., & Huang, J. (2022). Adaptive dual-view wavenet for urban spatial–temporal event prediction. Information Sciences, 588, 315-330.     
-23. __Jin, G.__., Xi, Z., Sha, H., Feng, Y., & Huang, J. (2022). Deep multi-view graph-based network for citywide ride-hailing demand prediction. Neurocomputing, 510, 79-94.
-24. Zhang, J., Chen, F., Yang, L., Ma, W., __Jin, G.__, & Gao, Z. (2022). Network-wide link travel time and station waiting time estimation using automatic fare collection data: A computational graph approach. IEEE Transactions on Intelligent Transportation Systems, 23(11), 21034-21049.
-25.  Sha, H. , __Jin, G.__, Cheng, G., Huang, J., Wu, K. (2022). A Deep Urban Hotspots Prediction Framework with Modeling Geography-Semantic Dynamics. Journal of Geo-information Science, 24(1): 25-37  
-26. __Jin, G.__, Sha, H., Feng, Y., Cheng, Q., & Huang, J. (2021). GSEN: An ensemble deep learning benchmark model for urban hotspots spatiotemporal prediction. Neurocomputing, 455, 353-367.
-27. Chen, S., __Jin, G.__, & Ma, X. (2021). Detection and analysis of real-time anomalies in large-scale complex system. Measurement, 184, 109929.
-28. __Jin, G.__, Cui, Y., Zeng, L., Tang, H., Feng, Y., & Huang, J. (2020). Urban ride-hailing demand prediction with multiple spatio-temporal information fusion network. Transportation Research Part C: Emerging Technologies, 117, 102665.    
-29. __Jin, G.__, Wang, Q., Zhu, C., Feng, Y., Huang, J., & Hu, X. (2020). Urban Fire Situation Forecasting: Deep sequence learning with spatio-temporal dynamics. Applied Soft Computing, 97, 106730.
-30. Wang, Q., __Jin, G.__, Zhao, X., Feng, Y., & Huang, J. (2020). CSAN: A neural network benchmark model for crime forecasting in spatio-temporal scale. Knowledge-Based Systems, 189, 105120.     
+1. __Jin, G.__., Ni, X., Song, Y., Wei, K., Zhao, J., Jia, L., & Pedrycz, W. (2026). Physics-Informed Neural Network With Adaptive Clustering Learning Mechanism for Information Popularity Prediction. IEEE Transactions on Computational Social Systems.
+2. Lin, Z., Li, Z., Yu, C., Cao, C., Zhou, T., & __Jin, G.__. (2026). Cross City Pre-Training Transfer Learning Model for Traffic Flow Prediction. IEEE Internet of Things Journal.
+3. Jiang, X., Li, J., Mallipeddi, R., __Jin, G.__., Wu, J., Xing, L., & Song, Y. (2026). Integrating adaptive divide-and-conquer and large language model for scheduling large-scale tasks in electromagnetic satellite systems. Expert Systems with Applications, 318, 131978.
+4. Wu, X., Guo, J., Shan, Y., & __Jin, G.__. (2026). GeoFormer: Geography-Aware Adaptive Transformer with Multi-Scale Temporal Fusion for Global Reservoir Water Level Forecasting. Mathematics, 14(4), 676.
+5. Jing, C., Duan, R., Yan, R., & __Jin, G.__. (2026). Adaptive Future-Guided Ensemble Learning for Non-Stationary Time Series Forecasting with Drift-Aware Routing. Mathematics, 14(10), 1686.
+6. Shao, Z., Wang, F., Sun, T., Yu, C., Fang, Y., __Jin, G.__., ... & Xu, Y. (2025). Hutformer: Hierarchical u-net transformer for long-term traffic forecasting. Communications in Transportation Research, 5, 100218.
+7. Wu, Z., __Jin, G.__., Gu, X., & Wang, C. (2025). KANJDP: Interpretable Temporal Point Process Modeling with Kolmogorov–Arnold Representation. Mathematics, 13(17), 275
+8. Hao, X., Zhao, H., Diao, Y., Yin, R., __Jin, G.__., Zhang, J., ... & Zhou, W. (2025). Dada++: Dual alignment domain adaptation for unsupervised video-text retrieval. ACM Transactions on Multimedia Computing, Communications and Applications.
+9.  __Jin, G.__., Li, X., Guan, S., Song, Y., Hao, X., & Zhang, J. (2025). Exploring to predict the tipping points in traffic flow: A lightweight spatio-temporal information-enhanced neural point process approach. Physica A: Statistical Mechanics and its Applications, 131122.
+10. __Jin, G.__., Ni, X., Wei, K., Zhao, J., Zhang, H., & Jia, L. (2025). Will the technological singularity come soon? Modeling the dynamics of artificial intelligence development via multi-logistic growth process. Physica A: Statistical Mechanics and its Applications, 130450.
+11. Wang, L., Zhang, J., __Jin, G.__., & Dong, X. (2025). STID-Mixer: A Lightweight Spatio-Temporal Modeling Framework for AIS-Based Vessel Trajectory Prediction. Eng, 6(8), 184.
+12. Wen, H., Lin, Y., Wu, L., Mao, X., Cai, T., Hou, Y., __Jin, G.__,... & Wan, H. (2024). A survey on service route and time prediction in instant delivery: Taxonomy, progress, and prospects. IEEE Transactions on Knowledge and Data Engineering.     
+13. Shao, Z., Wang, F., Xu, Y., Wei, W., Yu, C., Zhang, Z., __Jin, G.__, ... & Cheng, X. (2024). Exploring progress in multivariate time series forecasting: Comprehensive benchmarking and heterogeneity analysis. IEEE Transactions on Knowledge and Data Engineering.     
+14. Gao, M., Du, Z., Qin, H., Wang, W., __Jin, G.__, & Xie, G. (2024). Dynamic multi-scale spatial-temporal graph convolutional network for traffic flow prediction. Knowledge-Based Systems, 305, 112586.    
+15. __Jin, G.__, Yan, H., Li, F., Huang, J., & Li, Y. (2024). Spatio-temporal dual graph neural networks for travel time estimation. ACM Transactions on Spatial Algorithms and Systems, 10(3), 1-22.
+16. __Jin, G.__, ZHAO, X. J., & GONG, Y. X. (2024). Moving trajectory destination prediction based on long short-term memory network. Computer Engineering & Science, 46(03), 525.     
+17. Yang, H., Wang, M., Wang, Q., Yu, Z., __Jin, G.__, Zhou, C., & Zhou, Y. (2024). Non-informative noise-enhanced stochastic neural networks for improving adversarial robustness. Information Fusion, 108, 102397.    
+18. __Jin, G.__, Liang, Y., Fang, Y., Shao, Z., Huang, J., Zhang, J., & Zheng, Y. (2023). Spatio-temporal graph neural networks for predictive learning in urban computing: A survey. IEEE Transactions on Knowledge and Data Engineering.     
+19. __Jin, G.__, Yan, H., Li, F., Li, Y., & Huang, J. (2023). Dual graph convolution architecture search for travel time estimation. ACM Transactions on Intelligent Systems and Technology, 14(4), 1-23.    
+20. __Jin, G.__, Sha, H., Xi, Z., & Huang, J. (2023). Urban hotspot forecasting via automated spatio-temporal information fusion. Applied Soft Computing, 136, 110087.     
+21. Zhang, J., Li, H., Zhang, S., Yang, L., __Jin, G.__, & Qi, J. (2023). A spatiotemporal graph generative adversarial networks for short-term passenger flow prediction in urban rail transit systems. International Journal of General Systems, 52(6), 694-721.
+22. Li, F., Feng, J., Yan, H., __Jin, G.__, Yang, F., Sun, F., ... & Li, Y. (2023). Dynamic graph convolutional recurrent network for traffic prediction: Benchmark and solution. ACM Transactions on Knowledge Discovery from Data, 17(1), 1-21.
+23. Zhang, J., Chen, Y., Panchamy, K., __Jin, G.__, Wang, C., Yang, L. (2023). Attention-based Multi-step Short-term Passenger Flow Spatial-temporal Integrated Prediction Model in URT Systems. Journal of Geo-information Science, 25(4): 698-713
+24. __Jin, G.__, Li, F., Zhang, J., Wang, M., & Huang, J. (2022). Automated dilated spatio-temporal synchronous graph modeling for traffic prediction. IEEE Transactions on Intelligent Transportation Systems, 24(8), 8820-8830.    
+25. __Jin, G.__., Wang, M., Zhang, J., Sha, H., & Huang, J. (2022). STGNN-TTE: Travel time estimation via spatial–temporal graph neural network. Future Generation Computer Systems, 126, 70-81.     
+26. __Jin, G.__, Liu, C., Xi, Z., Sha, H., Liu, Y., & Huang, J. (2022). Adaptive dual-view wavenet for urban spatial–temporal event prediction. Information Sciences, 588, 315-330.     
+27. __Jin, G.__., Xi, Z., Sha, H., Feng, Y., & Huang, J. (2022). Deep multi-view graph-based network for citywide ride-hailing demand prediction. Neurocomputing, 510, 79-94.
+28. Zhang, J., Chen, F., Yang, L., Ma, W., __Jin, G.__, & Gao, Z. (2022). Network-wide link travel time and station waiting time estimation using automatic fare collection data: A computational graph approach. IEEE Transactions on Intelligent Transportation Systems, 23(11), 21034-21049.
+29.  Sha, H. , __Jin, G.__, Cheng, G., Huang, J., Wu, K. (2022). A Deep Urban Hotspots Prediction Framework with Modeling Geography-Semantic Dynamics. Journal of Geo-information Science, 24(1): 25-37  
+30. __Jin, G.__, Sha, H., Feng, Y., Cheng, Q., & Huang, J. (2021). GSEN: An ensemble deep learning benchmark model for urban hotspots spatiotemporal prediction. Neurocomputing, 455, 353-367.
+31. Chen, S., __Jin, G.__, & Ma, X. (2021). Detection and analysis of real-time anomalies in large-scale complex system. Measurement, 184, 109929.
+32. __Jin, G.__, Cui, Y., Zeng, L., Tang, H., Feng, Y., & Huang, J. (2020). Urban ride-hailing demand prediction with multiple spatio-temporal information fusion network. Transportation Research Part C: Emerging Technologies, 117, 102665.    
+33. __Jin, G.__, Wang, Q., Zhu, C., Feng, Y., Huang, J., & Hu, X. (2020). Urban Fire Situation Forecasting: Deep sequence learning with spatio-temporal dynamics. Applied Soft Computing, 97, 106730.
+34. Wang, Q., __Jin, G.__, Zhao, X., Feng, Y., & Huang, J. (2020). CSAN: A neural network benchmark model for crime forecasting in spatio-temporal scale. Knowledge-Based Systems, 189, 105120.     
 
 Conference Articles
 ======
@@ -59,7 +63,7 @@ Conference Articles
 11. __Jin, G.__, Wang, Q., Zhu, C., Feng, Y., Huang, J., & Zhou, J. (2020, February). Addressing crime situation forecasting task with temporal graph convolutional neural network approach. In 2020 12th International Conference on Measuring Technology and Mechatronics Automation (ICMTMA) (pp. 474-478). IEEE.    
 12. __Jin, G.__, Zhu, C., Chen, X., Sha, H., Hu, X., & Huang, J. (2020, May). Ufsp-net: a neural network with spatio-temporal information fusion for urban fire situation prediction. In IOP Conference Series: Materials Science and Engineering (Vol. 853, No. 1, p. 012050). IOP Publishing.
 13. __Jin, G.__, Wang, Q., Zhao, X., Feng, Y., Cheng, Q., & Huang, J. (2019, December). Crime-GAN: A context-based sequence generative network for crime forecasting with adversarial loss. In 2019 IEEE International Conference on Big Data (Big Data) (pp. 1460-1469). IEEE.
-14. Gao, Y., __Jin, G.__, Guo, Y., Zhu, G., Yang, Q., & Yang, K. (2019, October). Weighted area coverage of maritime joint search and rescue based on multi-agent reinforcement learning. In 2019 IEEE 3rd Advanced Information Management, Communicates, Electronic and Automation Control Conference (IMCEC) (pp. 593-597). IEEE.  
+14. Gao, Y., __Jin, G.__, Guo, Y., Zhu, G., Yang, Q., & Yang, K. (2019, October). Weighted area coverage of maritime joint search and rescue based on multi-agent reinforcement learning. In 2019 IEEE 3rd Advanced Information Management, Communicates, Electronic and Automation Control Conference (IMCEC) (pp. 593-597). IEEE. 
 15. __Jin, G.__, Huang, J., Feng, Y., Cheng, G., Liu, Z., & Wang, Q. (2018, December). Addressing the Task of Rocket Recycling with Deep Reinforcement Learning. In Proceedings of the 6th International Conference on Information Technology: IoT and Smart City (pp. 284-290).
 
 
